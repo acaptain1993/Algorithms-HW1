@@ -1,0 +1,24 @@
+body{
+    background-color: lavender;
+}
+
+.sectionhead{
+    background-color: cornflowerblue;
+}
+
+.list{
+    background-color: lightsteelblue;
+}
+
+/*Changes size of all h3 headings*/
+/*Also changes font color*/
+h3{
+    font-size: x-large;
+    color: darkblue;
+}
+/*Changes color of all h1 headings*/
+h1{
+    color: darkblue;
+}
+
+
